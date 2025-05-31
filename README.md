@@ -31,7 +31,7 @@ Re-open your project and verify that you have ToolBox of Unreal checked and my P
 
 # Details
 
-This blueprint is a Toolbox class. New tool feature arrived recently around 5.2 UE. Beaware that changing blueprint sometimes crashs Unreal, save twice like. 
+This blueprint is a Toolbox class. New tool feature arrived recently around 5.2 UE. Beaware that changing blueprint sometimes can crash Unreal, save twice like. 
 
 You can browse the "toolbox" tab element under Content/Tools/PratoTools/UTB_Tab_1.
 <img src="images/Screenshot_4.jpg" alt="" width="50%">
