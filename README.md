@@ -11,6 +11,7 @@
 The only tool for the moment is
 - a __Teleport__:
   - You select an actors place your cursor elsewhere and press Shift+T to teleport!
+  - <img src="images/teleport.gif" alt="" width="100%">
 
 I had to extend Python with a little C++ function to get the mosue position in world from the viewport/camera. All the rest of the logic is done in Blueprint(Toolbox class).
 
@@ -29,6 +30,16 @@ Re-open your project and verify that you have ToolBox of Unreal checked and my P
 <img src="images/Screenshot_2.jpg" alt="PraotPyLib" width="50%">
 
 # Details
-<img src="images/Screenshot_3.jpg" alt="" width="50%">
+
+This blueprint is a Toolbox class. New tool feature arrived recently around 5.2 UE. Beaware that changing blueprint sometimes crashs Unreal, save twice like. 
+
+You can browse the "toolbox" tab element under Content/Tools/PratoTools/UTB_Tab_1.
 <img src="images/Screenshot_4.jpg" alt="" width="50%">
+There's only one tab with one tool UBT_Teleport(1,2).
+The powerful feature I found from this Unreal Toolbox is that __you can assign shortcuts__ without the need of coding C++ (3).
 <img src="images/Screenshot_6.jpg" alt="" width="50%">
+You can enable the display of the tab from Drawer or let say viewport-frame tab
+<img src="images/Screenshot_3.jpg" alt="" width="50%">
+If you uncheck the viewport one, no more shortcut will work, sadly.
+
+
