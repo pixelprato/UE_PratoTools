@@ -13,7 +13,7 @@ The only tool for the moment is
   - You select an actors place your cursor elsewhere and press Shift+T to teleport!
   - <img src="images/teleport.gif" alt="" width="100%">
 
-I had to extend Python with a little C++ function to get the mosue position in world from the viewport/camera. All the rest of the logic is done in Blueprint(Toolbox class).
+I had to extend Python with a little C++ function to get the mouse position in world from the viewport/camera. All the rest of the logic is done in Blueprint(Toolbox class).
 
 # Version
 
