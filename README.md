@@ -22,6 +22,9 @@ Source is there anaway, build it with your preferable version or ask if you want
 
 # Install
 
+Download and unzip.
+</br><img src="images/Screenshot_7.jpg" alt="" width="50%">
+
 Copy paste __*Content*__ & __*Plugins*__ folders in your Unreal Project.</br>
 Re-open your project and verify that you have ToolBox of Unreal checked and my PratoPyLib in __*Edit / Plugins*__.
 
