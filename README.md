@@ -40,8 +40,8 @@ There's only one tab with one tool UBT_Teleport(1,2).
 The powerful feature I found from this Unreal Toolbox is that __you can assign shortcuts__ without the need of coding C++ (3).
 </br><img src="images/Screenshot_6.jpg" alt="" width="50%">
 
-You can enable the display of the tab from Drawer or let say viewport-frame tab
+You can enable the display of the tab from __drawer__ or __viewport-frame(Viewport Overlay)__
 </br><img src="images/Screenshot_3.jpg" alt="" width="50%">
-If you uncheck the viewport one, no more shortcut will work, sadly.
+</br>__warning__:If you uncheck the viewport one, no more shortcut will work, sadly.
 
 
